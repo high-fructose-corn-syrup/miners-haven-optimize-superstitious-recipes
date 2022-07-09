@@ -1,5 +1,5 @@
 # miners-haven-optimize-superstitious-recipes
-Constructs a linear system of constrained variables to minimize the crafting recipe cost for superstitious items in Miner's Haven
+Constructs and solves linear system of constrained variables to minimize the crafting recipe cost for superstitious items in [Miner's Haven](https://www.roblox.com/games/258258996/Miners-Haven).
 
 You can check [RECIPE.txt](src/RECIPE.txt) for a precomputed list of recipe's that use the code. 
 
