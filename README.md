@@ -11,6 +11,8 @@ If you wish to run the program yourself for reasons of tweaking it to better fit
 using Pkg
 Pkg.add("JuMP")
 Pkg.add("GLPK")
+Pkg.add("DataFrames")
+Pkg.add("CSV")
 ```
 #### Run the script in your terminal by providing the path to `superstitious.jl` relative to the terminal's current working directory. 
 ```console
