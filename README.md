@@ -6,7 +6,7 @@ You can check [RECIPE.txt](src/RECIPE.txt) for a precomputed list of recipe's th
 ## Use 
 
 If you wish to run the program yourself for reasons of tweaking it to better fit your inventory then here are the steps.
-#### Install required [Julia](https://julialang.org/) packages by opening a Julia REPL in your terminal. 
+#### Install required [Julia](https://julialang.org/) packages by opening a Julia REPL in your terminal and entering the following code:
 ```julia
 using Pkg
 Pkg.add("JuMP")
@@ -14,7 +14,7 @@ Pkg.add("GLPK")
 Pkg.add("DataFrames")
 Pkg.add("CSV")
 ```
-#### Run the script in your terminal by providing the path to `superstitious.jl` relative to the terminal's current working directory. 
+#### Run the script in your terminal by providing the path to `superstitious.jl` relative to the terminal's current working directory: 
 ```console
 julia ./superstitious.jl
 ```
