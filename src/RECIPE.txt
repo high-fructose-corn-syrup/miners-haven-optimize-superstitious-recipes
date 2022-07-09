@@ -1,0 +1,508 @@
+=== [ COMPUTING RECIPE FOR Vulcan's Wrath ] ===
+* Solver : GLPK        
+
+* Status
+  Termination status : OPTIMAL
+  Primal status      : FEASIBLE_POINT
+  Dual status        : NO_SOLUTION   
+  Message from the solver:
+  "Solution is optimal"
+
+* Candidate solution
+  Objective value      : 1.86040e+00
+  Objective bound      : 1.86040e+00
+  Relative gap         : 9.30136e-05
+
+* Work counters
+  Solve time (sec)   : 5.60000e-02
+
+NAME                     :: AMOUNT
+Big Bad Blaster          :: 5.0
+Flaming Schrodinger      :: 1.0
+Mineral Wheel            :: 6.0
+Plasma Scanner           :: 11.0
+Scorpium Mine            :: 8.0
+Yunium Mine              :: 2.0
+
+=== [ COMPUTING RECIPE FOR Draedon's Gauntlet ] ===
+* Solver : GLPK
+
+* Status
+  Termination status : OPTIMAL
+  Primal status      : FEASIBLE_POINT
+  Dual status        : NO_SOLUTION
+  Message from the solver:
+  "Solution is optimal"
+
+* Candidate solution
+  Objective value      : 1.75556e+00
+  Objective bound      : 1.75556e+00
+  Relative gap         : 1.32729e-04
+
+* Work counters
+  Solve time (sec)   : 3.20001e-02
+
+NAME                     :: AMOUNT
+Astral Predictor         :: 4.0
+Dreamer's Might          :: 1.0
+Lightningbolt Refiner    :: 10.0
+Nature's Grip            :: 3.0
+Solar Flare              :: 4.0
+Tesla Resetter           :: 8.0
+
+=== [ COMPUTING RECIPE FOR Garden of Gaia ] ===
+* Solver : GLPK
+
+* Status
+  Termination status : OPTIMAL
+  Primal status      : FEASIBLE_POINT
+  Dual status        : NO_SOLUTION
+  Message from the solver:
+  "Solution is optimal"
+
+* Candidate solution
+  Objective value      : 2.41503e+00
+  Objective bound      : 2.41503e+00
+  Relative gap         : 3.71753e-05
+
+* Work counters
+  Solve time (sec)   : 2.30000e-02
+
+NAME                     :: AMOUNT
+Big Bad Blaster          :: 1.0
+Dreamer's Fright         :: 4.0
+Lightningbolt Refiner    :: 4.0
+Mineral Wheel            :: 24.0
+Newtonium Mine           :: 5.0
+Solar Flare              :: 2.0
+Tesla Resetter           :: 1.0
+Yunium Mine              :: 1.0
+
+=== [ COMPUTING RECIPE FOR Daestrophe ] ===
+* Solver : GLPK
+
+* Status
+  Termination status : OPTIMAL
+  Primal status      : FEASIBLE_POINT
+  Dual status        : NO_SOLUTION
+  Message from the solver:
+  "Solution is optimal"
+
+* Candidate solution
+  Objective value      : 2.60619e+00
+  Objective bound      : 2.60619e+00
+  Relative gap         : 1.56003e-05
+
+* Work counters
+  Solve time (sec)   : 3.40002e-02
+
+NAME                     :: AMOUNT
+Big Bertha               :: 3.0
+Dreamer's Fright         :: 18.0
+Dreamer's Might          :: 1.0
+Mineral Wheel            :: 1.0
+Plasma Scanner           :: 15.0
+Sage Redeemer            :: 8.0
+
+=== [ COMPUTING RECIPE FOR Havium Mine ] ===
+* Solver : GLPK
+
+* Status
+  Termination status : OPTIMAL
+  Primal status      : FEASIBLE_POINT
+  Dual status        : NO_SOLUTION
+  Message from the solver:
+  "Solution is optimal"
+
+* Candidate solution
+  Objective value      : 1.96732e+00
+  Objective bound      : 1.96732e+00
+  Relative gap         : 3.29110e-05
+
+* Work counters
+  Solve time (sec)   : 4.40001e-02
+
+NAME                     :: AMOUNT
+Crystallized System      :: 2.0
+Dreamer's Might          :: 1.0
+Massive Diamond Mine     :: 6.0
+Mineral Wheel            :: 4.0
+Nature's Grip            :: 8.0
+Newtonium Mine           :: 6.0
+Scorpium Mine            :: 3.0
+Tesla Resetter           :: 1.0
+
+=== [ COMPUTING RECIPE FOR Midas Blaster ] ===
+* Solver : GLPK
+
+* Status
+  Termination status : OPTIMAL
+  Primal status      : FEASIBLE_POINT
+  Dual status        : NO_SOLUTION
+  Message from the solver:
+  "Solution is optimal"
+
+* Candidate solution
+  Objective value      : 1.58464e+00
+  Objective bound      : 1.58464e+00
+  Relative gap         : 4.12456e-05
+
+* Work counters
+  Solve time (sec)   : 4.99988e-03
+
+NAME                     :: AMOUNT
+Atomium Mine             :: 1.0
+Azure Refiner            :: 1.0
+Dreamer's Fright         :: 1.0
+Massive Diamond Mine     :: 5.0
+Mineral Wheel            :: 5.0
+Newtonium Mine           :: 4.0
+Scorpium Mine            :: 9.0
+
+=== [ COMPUTING RECIPE FOR Optic Origin ] ===
+* Solver : GLPK
+
+* Status
+  Termination status : OPTIMAL
+  Primal status      : FEASIBLE_POINT
+  Dual status        : NO_SOLUTION
+  Message from the solver:
+  "Solution is optimal"
+
+* Candidate solution
+  Objective value      : 1.60234e+00
+  Objective bound      : 1.60234e+00
+  Relative gap         : 5.61968e-05
+
+* Work counters
+  Solve time (sec)   : 4.30000e-02
+
+NAME                     :: AMOUNT
+Big Bertha               :: 3.0
+Dreamer's Might          :: 8.0
+Ore Illuminator          :: 7.0
+Solar Flare              :: 5.0
+Tesla Resetter           :: 3.0
+
+=== [ COMPUTING RECIPE FOR Pandora's Box ] ===
+* Solver : GLPK
+
+* Status
+  Termination status : OPTIMAL
+  Primal status      : FEASIBLE_POINT
+  Dual status        : NO_SOLUTION
+  Message from the solver:
+  "Solution is optimal"
+
+* Candidate solution
+  Objective value      : 2.18088e+00
+  Objective bound      : 2.18088e+00
+  Relative gap         : 4.11483e-06
+
+* Work counters
+  Solve time (sec)   : 2.36000e-01
+
+NAME                     :: AMOUNT
+Atomium Mine             :: 1.0
+Big Bertha               :: 5.0
+Dreamer's Fright         :: 13.0
+Dreamer's Might          :: 1.0
+Flaming Schrodinger      :: 3.0
+Gate of Eclipse          :: 1.0
+Mineral Wheel            :: 2.0
+Ore Illuminator          :: 1.0
+Plasma Scanner           :: 9.0
+Sage Redeemer            :: 2.0
+
+=== [ COMPUTING RECIPE FOR Swag City ] ===
+* Solver : GLPK
+
+* Status
+  Termination status : OPTIMAL
+  Primal status      : FEASIBLE_POINT
+  Dual status        : NO_SOLUTION
+  Message from the solver:
+  "Solution is optimal"
+
+* Candidate solution
+  Objective value      : 2.45218e+00
+  Objective bound      : 2.45218e+00
+  Relative gap         : 6.13734e-06
+
+* Work counters
+  Solve time (sec)   : 1.74000e-01
+
+NAME                     :: AMOUNT
+Big Bad Blaster          :: 4.0
+Big Bertha               :: 8.0
+Dreamer's Fright         :: 11.0
+Mineral Wheel            :: 13.0
+Plasma Scanner           :: 5.0
+Scorpium Mine            :: 1.0
+Solar Flare              :: 1.0
+Tesla Resetter           :: 1.0
+
+=== [ COMPUTING RECIPE FOR Delta Phantom ] ===
+* Solver : GLPK
+
+* Status
+  Termination status : OPTIMAL
+  Primal status      : FEASIBLE_POINT
+  Dual status        : NO_SOLUTION
+  Message from the solver:
+  "Solution is optimal"
+
+* Candidate solution
+  Objective value      : 2.05549e+00
+  Objective bound      : 2.05549e+00
+  Relative gap         : 8.05632e-05
+
+* Work counters
+  Solve time (sec)   : 1.30000e-02
+
+NAME                     :: AMOUNT
+Big Bertha               :: 15.0
+Dreamer's Fright         :: 6.0
+Newtonium Mine           :: 5.0
+Sage Redeemer            :: 1.0
+Yunium Mine              :: 10.0
+
+=== [ COMPUTING RECIPE FOR The Death Cap ] ===
+* Solver : GLPK
+
+* Status
+  Termination status : OPTIMAL
+  Primal status      : FEASIBLE_POINT
+  Dual status        : NO_SOLUTION
+  Message from the solver:
+  "Solution is optimal"
+
+* Candidate solution
+  Objective value      : 1.79133e+00
+  Objective bound      : 1.79133e+00
+  Relative gap         : 1.76553e-06
+
+* Work counters
+  Solve time (sec)   : 1.90600e+00
+
+NAME                     :: AMOUNT
+Big Bertha               :: 9.0
+Dreamer's Fright         :: 14.0
+Dreamer's Might          :: 1.0
+Lightningbolt Refiner    :: 1.0
+Mineral Wheel            :: 2.0
+Newtonium Mine           :: 3.0
+Sage Redeemer            :: 2.0
+
+=== [ COMPUTING RECIPE FOR Tyrant's Throne ] ===
+* Solver : GLPK
+
+* Status
+  Termination status : OPTIMAL
+  Primal status      : FEASIBLE_POINT
+  Dual status        : NO_SOLUTION
+  Message from the solver:
+  "Solution is optimal"
+
+* Candidate solution
+  Objective value      : 2.11536e+00
+  Objective bound      : 2.11536e+00
+  Relative gap         : 6.95195e-05
+
+* Work counters
+  Solve time (sec)   : 2.20001e-02
+
+NAME                     :: AMOUNT
+Atomium Mine             :: 7.0
+Dreamer's Might          :: 11.0
+Ore Illuminator          :: 6.0
+Scorpium Mine            :: 3.0
+Solar Flare              :: 2.0
+Tesla Resetter           :: 2.0
+
+=== [ COMPUTING RECIPE FOR Ore Hypernova ] ===
+* Solver : GLPK
+
+* Status
+  Termination status : OPTIMAL
+  Primal status      : FEASIBLE_POINT
+  Dual status        : NO_SOLUTION
+  Message from the solver:
+  "Solution is optimal"
+
+* Candidate solution
+  Objective value      : 2.85466e+00
+  Objective bound      : 2.85466e+00
+  Relative gap         : 3.34398e-05
+
+* Work counters
+  Solve time (sec)   : 1.20001e-02
+
+NAME                     :: AMOUNT
+Big Bad Blaster          :: 11.0
+Flaming Schrodinger      :: 1.0
+Lightningbolt Refiner    :: 20.0
+Nature's Grip            :: 1.0
+Scorpium Mine            :: 1.0
+Solar Flare              :: 5.0
+Tesla Resetter           :: 12.0
+
+=== [ COMPUTING RECIPE FOR Enchanted Library ] ===
+* Solver : GLPK
+
+* Status
+  Termination status : OPTIMAL
+  Primal status      : FEASIBLE_POINT
+  Dual status        : NO_SOLUTION
+  Message from the solver:
+  "Solution is optimal"
+
+* Candidate solution
+  Objective value      : 2.48889e+00
+  Objective bound      : 2.48889e+00
+  Relative gap         : 3.60023e-04
+
+* Work counters
+  Solve time (sec)   : 0.00000e+00
+
+NAME                     :: AMOUNT
+Dreamer's Might          :: 16.0
+Ore Illuminator          :: 13.0
+Tesla Resetter           :: 10.0
+
+=== [ COMPUTING RECIPE FOR Elysium Solemnity ] ===
+* Solver : GLPK
+
+* Status
+  Termination status : OPTIMAL
+  Primal status      : FEASIBLE_POINT
+  Dual status        : NO_SOLUTION
+  Message from the solver:
+  "Solution is optimal"
+
+* Candidate solution
+  Objective value      : 2.29333e+00
+  Objective bound      : 2.29333e+00
+  Relative gap         : 4.49998e-06
+
+* Work counters
+  Solve time (sec)   : 5.19998e-02
+
+NAME                     :: AMOUNT
+Astral Predictor         :: 1.0
+Big Bertha               :: 11.0
+Dreamer's Might          :: 14.0
+Mineral Wheel            :: 1.0
+Ore Illuminator          :: 4.0
+Solar Flare              :: 7.0
+
+=== [ COMPUTING RECIPE FOR Methuselah's Mask ] ===
+* Solver : GLPK
+
+* Status
+  Termination status : OPTIMAL
+  Primal status      : FEASIBLE_POINT
+  Dual status        : NO_SOLUTION
+  Message from the solver:
+  "Solution is optimal"
+
+* Candidate solution
+  Objective value      : 3.22938e+00
+  Objective bound      : 3.22938e+00
+  Relative gap         : 1.86412e-06
+
+* Work counters
+  Solve time (sec)   : 8.87000e-01
+
+NAME                     :: AMOUNT
+Big Bertha               :: 14.0
+Dark Magic               :: 2.0
+Dreamer's Fright         :: 18.0
+Dreamer's Might          :: 4.0
+Mineral Wheel            :: 13.0
+Ore Illuminator          :: 1.0
+Plasma Scanner           :: 3.0
+Sage Redeemer            :: 1.0
+Scorpium Mine            :: 1.0
+
+=== [ COMPUTING RECIPE FOR Meralin's Sorcery ] ===
+* Solver : GLPK
+
+* Status
+  Termination status : OPTIMAL
+  Primal status      : FEASIBLE_POINT
+  Dual status        : NO_SOLUTION
+  Message from the solver:
+  "Solution is optimal"
+
+* Candidate solution
+  Objective value      : 3.16649e+00
+  Objective bound      : 3.16649e+00
+  Relative gap         : 2.48201e-06
+
+* Work counters
+  Solve time (sec)   : 3.18300e+00
+
+NAME                     :: AMOUNT
+Big Bertha               :: 12.0
+Dark Magic               :: 2.0
+Dreamer's Fright         :: 1.0
+Mineral Wheel            :: 25.0
+Newtonium Mine           :: 1.0
+Plasma Scanner           :: 16.0
+
+=== [ COMPUTING RECIPE FOR The Heart of Void ] ===
+* Solver : GLPK
+
+* Status
+  Termination status : OPTIMAL
+  Primal status      : FEASIBLE_POINT
+  Dual status        : NO_SOLUTION
+  Message from the solver:
+  "Solution is optimal"
+
+* Candidate solution
+  Objective value      : 4.44840e+00
+  Objective bound      : 4.44840e+00
+  Relative gap         : 2.23069e-07
+
+* Work counters
+  Solve time (sec)   : 2.05920e+01
+
+NAME                     :: AMOUNT
+Big Bertha               :: 16.0
+Dreamer's Fright         :: 24.0
+Mineral Wheel            :: 19.0
+Newtonium Mine           :: 14.0
+Plasma Scanner           :: 5.0
+Scorpium Mine            :: 1.0
+Tesla Resetter           :: 1.0
+
+=== [ COMPUTING RECIPE FOR The Hourglass ] ===
+* Solver : GLPK
+
+* Status
+  Termination status : TIME_LIMIT
+  Primal status      : FEASIBLE_POINT
+  Dual status        : NO_SOLUTION
+  Message from the solver:
+  "The search was prematurely terminated, because the time limit has been exceeded."
+
+* Candidate solution
+  Objective value      : 4.69814e+00
+  Objective bound      : 4.67803e+00
+  Relative gap         : 4.27998e-03
+
+* Work counters
+  Solve time (sec)   : 2.40004e+02
+
+NAME                     :: AMOUNT
+Astral Predictor         :: 2.0
+Big Bertha               :: 25.0
+Dreamer's Might          :: 9.0
+Frozen Justice           :: 3.0
+Lightningbolt Refiner    :: 3.0
+Mineral Wheel            :: 15.0
+Sage Redeemer            :: 1.0
+Solar Flare              :: 13.0
+Tesla Resetter           :: 11.0
